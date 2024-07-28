@@ -1,1 +1,4 @@
-// For more check out zachsaucier.com
+function outputResume(){
+//ran into confusion
+    
+}
